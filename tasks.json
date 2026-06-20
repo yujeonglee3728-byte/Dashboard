@@ -1,0 +1,31 @@
+{
+  "MDR": [
+    {"project": "세라젬", "status": "진행중", "update": "6/17", "note": "보완 적용 사항 검토 완료"},
+    {"project": "DK 메디컬", "status": "진행중", "update": "6/12", "note": "진행 방향 논의 완료"},
+    {"project": "인트로메딕", "status": "대기중", "update": "6/08", "note": "세부 적용 요청 예정(~6/18)"},
+    {"project": "좋은보코", "status": "진행중", "update": "6/08", "note": "Safety/EMC 프로젝트 오픈"},
+    {"project": "셀라메디컬", "status": "검토중", "update": "6/17", "note": "비교표 검토 의견 회신 완료"}
+  ],
+  "FDA": [
+    {"project": "테라시온바이오메디칼", "status": "대기중", "update": "6/08", "note": "고객사 회신 대기 중"}
+  ],
+  "CyberSecurity": [
+    {"project": "휴비츠", "status": "진행중", "update": "6/09", "note": "TRA/아키텍처 안내 예정(6/25)"},
+    {"project": "디앤티/픽셀런트", "status": "대기중", "update": "5/30", "note": "고객사 요청 대기"},
+    {"project": "솔렌도스", "status": "진행중", "update": "6/19", "note": "자료 전달 요청 예정"},
+    {"project": "바이오넷", "status": "대기중", "update": "N/A", "note": "고객사 요청 대기"},
+    {"project": "덴티움", "status": "대기중", "update": "6/16", "note": "고객사 회신 대기"},
+    {"project": "메가메디컬", "status": "대기중", "update": "N/A", "note": "고객사 요청 대기"}
+  ],
+  "GMP": [
+    {"project": "에이치앤지메디칼", "status": "완료", "update": "6/10", "note": "추가 문의사항 답변 완료"}
+  ],
+  "MFDS": [
+    {"project": "유나이티드헬스케어이미징", "status": "진행중", "update": "6/05", "note": "uMR 시리즈 보완/심사 예정"}
+  ],
+  "Schedule": [
+    {"date": "2026-06-24", "client": "세라젬", "manager": "이유정"},
+    {"date": "2026-06-25", "client": "휴비츠", "manager": "이유정"},
+    {"date": "2026-06-26", "client": "의료기기 안전정보원", "manager": "이유정, 박지원"}
+  ]
+}
